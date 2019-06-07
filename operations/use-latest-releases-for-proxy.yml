@@ -1,0 +1,4 @@
+---
+- type: replace
+  path: /releases/name=cf-smoke-tests/version
+  value: latest
